@@ -1,0 +1,5 @@
+def car_speed(distance, time):
+    speed = distance / time
+    return speed
+
+print(car_speed(500, 4)) # 125.0
